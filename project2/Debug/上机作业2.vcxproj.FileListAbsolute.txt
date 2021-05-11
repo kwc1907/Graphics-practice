@@ -1,0 +1,2 @@
+C:\Users\dell\Desktop\c++集\上机作业2\Debug\上机作业2.exe
+C:\Users\dell\Desktop\c++集\上机作业2\Debug\上机作业2.pdb
