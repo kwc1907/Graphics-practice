@@ -1,0 +1,4 @@
+D:\c++\试验3\Debug\试验3.exe
+D:\c++\试验3\Debug\试验3.pdb
+D:\c++\地月太阳\Debug\试验3.exe
+D:\c++\地月太阳\Debug\试验3.pdb
